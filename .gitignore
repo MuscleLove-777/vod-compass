@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+output/topics/
+output/articles/.cache/
+.DS_Store
