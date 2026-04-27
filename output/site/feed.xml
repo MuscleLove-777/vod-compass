@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VODコンパス</title>
+    <link>https://musclelove-777.github.io/vod-compass/</link>
+    <description>U-NEXT・Hulu・Netflix・Amazon Prime・Disney+ など主要VODを徹底比較。料金・配信作品・無料体験・視聴デバイスを網羅、目的別おすすめサービスを提案。</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 28 Apr 2026 08:59:40 +0900</lastBuildDate>
+    <atom:link href="https://musclelove-777.github.io/vod-compass//feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Netflix Premium と Hulu の料金 比較ガイド</title>
+      <link>https://musclelove-777.github.io/vod-compass//articles/netflix-premium-hulu-pricing-comparison.html</link>
+      <guid>https://musclelove-777.github.io/vod-compass//articles/netflix-premium-hulu-pricing-comparison.html</guid>
+      <description></description>
+      <category>料金プラン徹底解説</category>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
