@@ -56,6 +56,10 @@ jobs:
           SiteGenerator(config).build_site()
           print("site rebuilt")
           PY
+      - name: Inject compass network footer
+        run: |
+          echo "${{ github.event.repository.name }}" > .compass_self_slug
+          python scripts/inject_compass_footer.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
